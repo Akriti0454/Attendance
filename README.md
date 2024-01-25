@@ -1,4 +1,4 @@
-# Attedance.checker
+# Attendance.checker
 
 # About
 
