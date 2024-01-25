@@ -6,7 +6,6 @@ The Attendance.checker is a web-based application built using the MERN (MongoDB,
 
 Our attendence checker website keeps an eye on the student's attendance and is helpful to 3 groups namely STUDENTS, ADMIN & TEACHERS. This can contibute to education sector in schools and universities.
 
-
 ## Features
 
 - **User Roles:** The system supports three user roles: Admin, Teacher, and Student. Each role has specific functionalities and access levels.
